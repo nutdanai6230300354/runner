@@ -7,4 +7,4 @@ Is a game program that, when starting to play, click on the mouse, there is a ke
 2.The program will create obstacles for the character to dodge.
 3.Use the keyboard to control the character and keep running.
 # Installation
-Compile & run Fill name "Project.java".
+Compile & run Fill name "Runner.java".
